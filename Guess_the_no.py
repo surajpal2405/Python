@@ -1,4 +1,4 @@
-\#write a program which will take the no. entered by the user as an input checks it with already defined no.(any no.)
+#write a program which will take the no. entered by the user as an input checks it with already defined no.(any no.)
 #if matched will display "your guess is correct" along with the attempts taken to guess. if guess is more tells
 #you to decrement the no. along with no. of attempts left and vice versa
 #max no. of attempt is 9. if all attempts get used tells "game over"
