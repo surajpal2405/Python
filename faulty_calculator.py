@@ -1,4 +1,5 @@
  #faulty calculator of below operations only and regular for other opeations
+ # why is this named a faulty calculator anyway ???????????????
 
 #45 *  = 555, 56 + 9 = 77, 56 / 6 = 4
 num1=int(input("enter num1"))
